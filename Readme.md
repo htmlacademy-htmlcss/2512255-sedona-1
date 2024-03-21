@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Роман Трушин](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512255).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Варнавский](https://htmlacademy.ru/profile/anton_varnauski)
 
 ---
 
